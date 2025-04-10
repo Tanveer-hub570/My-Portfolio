@@ -82,7 +82,7 @@ Scan this QR code to open the app instantly:
 ## 🎥 Demo
 
 Watch the app in action:  
-🔗 [Watch on YouTube]([https://youtube.com/your-demo-link](https://youtube.com/shorts/89yOQx1uMNA))
+🔗 [Watch the video here](https://youtube.com/shorts/PCViIloK--k?feature=share) 
 
 ---
 
