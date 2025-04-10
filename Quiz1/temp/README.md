@@ -4,7 +4,7 @@ A clean and modern **Weather App** built using **React Native with Expo Go**, fe
 
 ## 📺 Watch the Full Tutorial on YouTube
 
-👉 [Watch the video here]([https://www.youtube.com/watch?v=YOUR_VIDEO_LINK](https://youtube.com/shorts/PCViIloK--k?feature=share))  
+👉 [Watch the video here](https://youtube.com/shorts/PCViIloK--k?feature=share)  
 📌 Don’t forget to **like**, **comment**, and **subscribe** if you find it helpful!
 
 ---
@@ -34,3 +34,13 @@ A clean and modern **Weather App** built using **React Native with Expo Go**, fe
    ```bash
    git clone https://github.com/yourusername/weather-app-react-native.git
    cd weather-app-react-native
+2. Install dependencies
+
+   npm install
+
+3. Start the Expo development server
+
+   
+   Create a file named .env and add your key:
+   WEATHER_API_KEY=your_api_key_here
+
