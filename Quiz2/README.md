@@ -24,7 +24,7 @@ Home Screen 1	Home Screen 2
 bash
 Copy
 Edit
-git clone https://github.com/your-username/disney-movie-app.git
+git clone https://github.com/Tanveer-hub570/disney-movie-app.git
 cd disney-movie-app
 2. Install Dependencies
 bash
