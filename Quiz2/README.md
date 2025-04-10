@@ -1,35 +1,35 @@
-🌦️ Dynamic Weather App with React Native & Expo
-A clean and modern Weather App built using React Native with Expo Go, fetching real-time weather data from the OpenWeatherMap API. Enter any city name and get up-to-date weather information including temperature, condition, and dynamic weather icons.
+🎬 Disney Movie App with React Native
+A beautiful React Native app that displays a scrollable list of popular Disney movies with stunning visuals. Great for learning how to structure UI layouts and handle image-based content in a mobile app.
 
-📺 Watch the Full Tutorial on YouTube
-👉 Watch the video here
+📺 Watch the Demo on YouTube
+👉 Watch the demo here
 📌 Don’t forget to like, comment, and subscribe if you find it helpful!
 
 📱 Scan the QR Code to Try It Out
-Scan the QR code below using the Expo Go app on your mobile device to run the app instantly:
+Scan this QR code using the Expo Go app on your mobile device to launch the app instantly:
 
-
-Make sure to install Expo Go on your mobile device.
+<p align="center"> <img src="./mnt/data/Quiz_qr_code.jpeg" width="180" alt="QR Code for Expo Go" /> </p>
+📲 Make sure to have the Expo Go app installed on your device.
 
 🚀 Features
-🌍 Get live weather updates for any city
+🎥 View a list of popular Disney movies
 
-🔍 Dynamic search bar for user input
+🖼️ Scroll through stunning movie posters
 
-🌡️ Displays temperature, weather conditions, and icons
+🧾 Titles displayed with clean formatting
 
-📱 Smooth performance with React Native & Expo
+📱 Smooth and responsive layout using React Native
 
-💡 Beginner-friendly code with clean architecture and styling
+💡 Beginner-friendly and easy to extend
 
 🛠️ Tech Stack
 React Native (via Expo)
 
-OpenWeatherMap API
-
 JavaScript (ES6)
 
-Fetch API
+FlatList for efficient rendering
+
+Static assets or mock API
 
 📦 Installation & Setup
 Clone the repository
@@ -37,8 +37,8 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/weather-app-react-native.git
-cd weather-app-react-native
+git clone https://github.com/yourusername/disney-movie-app.git
+cd disney-movie-app
 Install dependencies
 
 bash
@@ -47,16 +47,16 @@ Edit
 npm install
 # or
 yarn install
-Start the Expo project
+Run the app
 
 bash
 Copy
 Edit
 npx expo start
-This will launch the Expo Dev Tools in your browser. You can then scan the QR code with the Expo Go app to run it on your device.
+Scan the QR code using Expo Go to open it on your mobile device.
 
 🧪 Screenshots
-Weather Input	Weather Results
-Made with ☀️, ☁️, and a little 💻 magic.
-Happy coding!
-
+Home View 1	Home View 2
+<img src="./mnt/data/Screenshot 1.jpeg" width="250"/>	<img src="./mnt/data/Screenshot 2.jpeg" width="250"/>
+Made with ❤️ and a touch of Disney magic ✨
+Happy coding & keep creating!
