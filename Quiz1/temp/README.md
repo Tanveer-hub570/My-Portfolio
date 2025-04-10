@@ -9,6 +9,14 @@ A clean and modern **Weather App** built using **React Native with Expo Go**, fe
 
 ---
 
+## 📱 Scan the QR Code to Try It Out
+
+Scan the QR code below using the **Expo Go app** on your mobile device to run the app instantly:
+
+![Scan with Expo Go](task_q1_code.png)
+
+---
+
 ## 🚀 Features
 
 - 🌍 Get live weather updates for any city
@@ -34,13 +42,3 @@ A clean and modern **Weather App** built using **React Native with Expo Go**, fe
    ```bash
    git clone https://github.com/yourusername/weather-app-react-native.git
    cd weather-app-react-native
-2. Install dependencies
-
-   npm install
-
-3. Start the Expo development server
-
-   
-   Create a file named .env and add your key:
-   WEATHER_API_KEY=your_api_key_here
-
