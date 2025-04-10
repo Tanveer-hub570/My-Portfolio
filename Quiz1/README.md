@@ -41,4 +41,4 @@ Scan the QR code below using the **Expo Go app** on your mobile device to run th
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/weather-app-react-native.git
-   cd weather-app-react-native
+   cd weather-app-react-native;
