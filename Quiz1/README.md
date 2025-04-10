@@ -2,7 +2,7 @@
 
 A clean and modern **Weather App** built using **React Native with Expo Go**, fetching **real-time weather data** using the **OpenWeatherMap API**. Enter any city and get live weather updates including temperature, condition, and weather icon.
 
-## 📺 Watch the Full Tutorial on YouTube
+## 📺 Watch the Full Demo on YouTube
 
 👉 [Watch the video here](https://youtube.com/shorts/PCViIloK--k?feature=share)  
 📌 Don’t forget to **like**, **comment**, and **subscribe** if you find it helpful!
