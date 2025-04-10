@@ -56,6 +56,6 @@ const styles = StyleSheet.create({
   weatherIcon: { width: 100, height: 100, marginVertical: 10 },
   temperature: { fontSize: 40, fontWeight: 'bold' },
   description: { fontSize: 20 },
-});
+}); 
 
 export default App;
