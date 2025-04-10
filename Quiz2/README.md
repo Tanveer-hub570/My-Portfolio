@@ -1,50 +1,62 @@
-📽️ Disney Movie App
-A beautiful and simple React Native app showcasing a list of popular Disney movies using an API. Users can scroll through and explore movie titles with vibrant visuals.
+🌦️ Dynamic Weather App with React Native & Expo
+A clean and modern Weather App built using React Native with Expo Go, fetching real-time weather data from the OpenWeatherMap API. Enter any city name and get up-to-date weather information including temperature, condition, and dynamic weather icons.
 
-🌟 Features
-Built with React Native
+📺 Watch the Full Tutorial on YouTube
+👉 Watch the video here
+📌 Don’t forget to like, comment, and subscribe if you find it helpful!
 
-Movie list fetched from an API
+📱 Scan the QR Code to Try It Out
+Scan the QR code below using the Expo Go app on your mobile device to run the app instantly:
 
-Clean and minimalistic UI
 
-Scrollable list of popular Disney movies
+Make sure to install Expo Go on your mobile device.
 
-QR code for quick install and access
+🚀 Features
+🌍 Get live weather updates for any city
 
-Video demo included
+🔍 Dynamic search bar for user input
 
-📱 Screenshots
-Home Screen 1	Home Screen 2
-📹 Demo Video
-👉 Watch the Demo on YouTube
+🌡️ Displays temperature, weather conditions, and icons
 
-🚀 Getting Started
-1. Clone the Repository
+📱 Smooth performance with React Native & Expo
+
+💡 Beginner-friendly code with clean architecture and styling
+
+🛠️ Tech Stack
+React Native (via Expo)
+
+OpenWeatherMap API
+
+JavaScript (ES6)
+
+Fetch API
+
+📦 Installation & Setup
+Clone the repository
+
 bash
 Copy
 Edit
-git clone https://github.com/Tanveer-hub570/disney-movie-app.git
-cd disney-movie-app
-2. Install Dependencies
+git clone https://github.com/yourusername/weather-app-react-native.git
+cd weather-app-react-native
+Install dependencies
+
 bash
 Copy
 Edit
 npm install
 # or
 yarn install
-3. Run the App
+Start the Expo project
+
 bash
 Copy
 Edit
-npx react-native run-android
-# or for iOS
-npx react-native run-ios
-Make sure your environment is properly set up for React Native. React Native Docs
+npx expo start
+This will launch the Expo Dev Tools in your browser. You can then scan the QR code with the Expo Go app to run it on your device.
 
-📦 QR Code
-Scan the QR code below to view the app on your mobile device:
-
-
-Built with ❤️ using React Native
+🧪 Screenshots
+Weather Input	Weather Results
+Made with ☀️, ☁️, and a little 💻 magic.
+Happy coding!
 
