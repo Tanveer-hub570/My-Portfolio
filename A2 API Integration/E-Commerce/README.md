@@ -117,12 +117,12 @@ See the [LICENSE](./LICENSE) file for details.
 ## 📥 Download the Project
 
 Prefer downloading directly?  
-[Click here to download the zipped project](https://github.com/yourusername/ecommerce-app/archive/refs/heads/main.zip)
+[Click here to download the zipped project](https://Tanveer-hub570/My-Portfolio/A2-API-Integration/ecommerce-app/archive/refs/heads/main.zip)
 
 ---
 
 ## 🙋‍♂️ Need Help?
 
-If you have any questions or need help setting up the project, feel free to [open an issue](https://github.com/yourusername/ecommerce-app/issues) or message me directly!
+If you have any questions or need help setting up the project, feel free to [open an issue](https://github.com/Tanveer-hub570/My-Portfolio/tree/main/A2%20API%20Integration/E-Commerce/issues) or message me directly!
 
 ---
