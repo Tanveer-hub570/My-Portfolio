@@ -1,11 +1,64 @@
-# Sample Snack app
+🛍️ React Native Shopping Cart UI (Figma to App)
+A clean and modern UI design of a shopping cart app built with React Native using Expo, based entirely on a Figma design.
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+✨ Features
+🎨 Figma-inspired design
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+🧾 Product listing with images, titles, and prices
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+🔍 Search bar UI
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+🛒 Cart screen UI
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+🧘 Smooth and responsive layout
+
+🚫 Note: This is a UI-only implementation — no backend or functionality like add-to-cart or API integration.
+
+📱 Screens
+Home Screen (Product List)
+
+Cart Screen
+
+(Optional: Splash / Login if included in the Figma)
+
+📂 Folder Structure
+css
+Copy
+Edit
+App.js
+assets/
+  └─ images/
+components/
+  └─ ProductCard.js
+  └─ Header.js
+screens/
+  └─ HomeScreen.js
+  └─ CartScreen.js
+🎨 Based On
+📐 Figma Design: "Shopping Cart UI by [Designer Name]"
+(Add the link to the original Figma design if available)
+
+🚀 Getting Started
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/react-native-shopping-ui.git
+cd react-native-shopping-ui
+npm install
+npx expo start
+Open the Expo Go app on your device and scan the QR code.
+
+🛠️ Built With
+React Native
+
+Expo
+
+JavaScript
+
+React Navigation (if used)
+
+🙋‍♂️ Author
+Tanveer Mustafa
+
+📄 License
+Open-source UI design. Feel free to use and customize for your own projects!
