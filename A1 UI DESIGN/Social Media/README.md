@@ -1,11 +1,43 @@
-# Sample Snack app
+<h1 align="center">📱 React Native Social Media UI</h1> <p align="center"> Sleek and modern <strong>Social Media App UI</strong> built with <strong>React Native</strong> and <strong>Expo</strong>, based on an intuitive and scroll-friendly <strong>Figma Design</strong>. </p> <p align="center"> <img src="https://img.shields.io/badge/Platform-React%20Native-blueviolet?style=for-the-badge" /> <img src="https://img.shields.io/badge/Expo-Framework-success?style=for-the-badge" /> <img src="https://img.shields.io/badge/Figma%20Design-Coming%20Soon-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-UI%20Only-yellow?style=for-the-badge" /> </p>
+🌟 Features Preview
+✅ Smooth scrollable feed UI
+✅ Stylized post cards with user avatars
+✅ Top stories layout for real feel
+✅ Responsive, touch-optimized design
+✅ Profile section UI with editable fields
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+📸 Included UI Screens
+📰 Feed Screen – Posts with user info, timestamps & interaction buttons
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+📸 Story Highlights – Top section stories for daily snapshots
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+👤 Profile Screen – Editable user info & profile preview
+
+✏️ Edit Profile Form – Basic text input layout
+
+⚙️ How to Run
+bash
+Copy
+Edit
+git clone https://github.com/Tanveer-hub570/My-Portfolio.git
+cd My-Portfolio/A1%20UI%20DESIGN/Social%20Media
+npm install
+npx expo start
+💻 Built Using
+⚛️ React Native
+
+🚀 Expo
+
+🎨 Figma UI
+
+💡 Clean component-based structure
+
+👨‍💻 Author
+Tanveer Mustafa
+🔗 GitHub - Tanveer-hub570
+
+📘 License
+Free for personal use and inspiration. Commercial use requires credit or permission.
+
