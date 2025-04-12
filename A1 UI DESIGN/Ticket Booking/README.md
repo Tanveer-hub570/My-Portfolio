@@ -1,11 +1,33 @@
-# Sample Snack app
+<h1 align="center">🎟️ Cinema Ticket Booking App UI</h1> <p align="center"> A beautifully crafted mobile UI for booking movie tickets — built using <strong>React Native</strong> and <strong>Expo</strong>, with elegant layout and design powered by <strong>Figma</strong>. </p> <p align="center"> <img src="https://img.shields.io/badge/Platform-React%20Native-blueviolet?style=for-the-badge" /> <img src="https://img.shields.io/badge/Expo-Mobile%20App-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Figma-Design-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-UI%20Only-yellow?style=for-the-badge" /> </p>
+🎨 Figma Design
+👉 Click here to view the Cinema Ticket Booking App UI on Figma
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+📲 App Features (UI Only)
+🎬 Home screen with movie listings & banners
+🔍 Search functionality design
+📅 Movie details with date/time showtimes
+🪑 Interactive seat selection UI
+🧾 Booking summary & confirmation screen
+🌙 Beautiful light/dark mode concept
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+⚙️ How to Run It Locally
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+git clone https://github.com/Tanveer-hub570/My-Portfolio.git
+cd My-Portfolio/A1%20UI%20DESIGN/Ticket%20Booking
+npm install
+npx expo start
+💻 Tech Stack
+React Native
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+Expo
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Styled UI with Figma
+
+Clean component-driven structure
+
+👨‍🎨 Designed & Developed By
+Tanveer Mustafa
+🔗 GitHub - Tanveer-hub570
+
+🪄 License
+This UI design is free for personal or educational use. Credit required for commercial reuse
