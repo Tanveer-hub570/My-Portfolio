@@ -77,7 +77,7 @@ You can scan the QR code below using the **Expo Go** app on your mobile device:
 **Filename**: `a2_expense_tracker_qr_code.png`  
 Scan this QR code to open the app instantly:
 
-![QR Code - a2_expense_tracker_qr_code.png](./a2_ expense_tracker_qr_code.png)
+![QR Code - a2_expense_tracker_qr_code.png](./code.png)
 
 ---
 
