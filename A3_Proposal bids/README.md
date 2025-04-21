@@ -93,7 +93,7 @@ Here are screenshots of the apps I’ve built and the proposals I submitted acro
 If you're a client or recruiter browsing this, I’d love to work with you! I bring passion, precision, and a collaborative mindset.
 
 - 📧 **Email**: tanveermustafa57@gmail.com  
-- 🌐 **Portfolio**: [https://yourportfolio.com]([https://yourportfolio.com](https://github.com/Tanveer-hub570/My-Portfolio))  
+- 🌐 **Portfolio**: https://github.com/Tanveer-hub570/My-Portfolio  
 
 ---
 
