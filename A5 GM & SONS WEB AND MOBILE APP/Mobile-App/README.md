@@ -16,7 +16,7 @@ Get a firsthand look at the mobile app in action:
 
 ## 🧾 Screenshots
 
-| 🔒 Login |  | 🏠 Home Screen |
+| 🔒 Login |  | 🏠 Home Screen 
 |---------------|-----------------|
 | ![mobiless1](mobiless1.png) | ![mobiless2](mobiless2.png) |
 
