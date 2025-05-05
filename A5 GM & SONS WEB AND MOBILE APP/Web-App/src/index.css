@@ -1,0 +1,119 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 60 30% 98%;
+    --foreground: 142 25% 20%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 142 25% 20%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 142 25% 20%;
+
+    --primary: 142 38% 40%;
+    --primary-foreground: 0 0% 98%;
+
+    --secondary: 60 15% 90%;
+    --secondary-foreground: 142 30% 25%;
+
+    --muted: 60 15% 90%;
+    --muted-foreground: 142 10% 40%;
+
+    --accent: 36 100% 50%;
+    --accent-foreground: 0 0% 98%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 142 15% 85%;
+    --input: 142 15% 85%;
+    --ring: 142 38% 40%;
+
+    --radius: 0.5rem;
+
+    --sidebar-background: 142 38% 25%;
+    --sidebar-foreground: 0 0% 98%;
+    --sidebar-primary: 60 50% 50%;
+    --sidebar-primary-foreground: 142 38% 25%;
+    --sidebar-accent: 142 30% 35%;
+    --sidebar-accent-foreground: 0 0% 98%;
+    --sidebar-border: 142 30% 35%;
+    --sidebar-ring: 60 50% 50%;
+  }
+
+  .dark {
+    --background: 142 30% 10%;
+    --foreground: 0 0% 98%;
+
+    --card: 142 25% 15%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 142 25% 15%;
+    --popover-foreground: 0 0% 98%;
+
+    --primary: 142 50% 40%;
+    --primary-foreground: 0 0% 98%;
+
+    --secondary: 142 30% 20%;
+    --secondary-foreground: 0 0% 98%;
+
+    --muted: 142 25% 20%;
+    --muted-foreground: 142 10% 70%;
+
+    --accent: 36 100% 50%;
+    --accent-foreground: 0 0% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 142 25% 25%;
+    --input: 142 25% 25%;
+    --ring: 142 50% 40%;
+
+    --sidebar-background: 142 30% 15%;
+    --sidebar-foreground: 0 0% 98%;
+    --sidebar-primary: 60 50% 50%;
+    --sidebar-primary-foreground: 142 38% 25%;
+    --sidebar-accent: 142 20% 25%;
+    --sidebar-accent-foreground: 0 0% 98%;
+    --sidebar-border: 142 20% 25%;
+    --sidebar-ring: 60 50% 50%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.5rem;
+}
+
+.product-card {
+  @apply bg-card rounded-lg overflow-hidden shadow-md transition-transform hover:shadow-lg hover:-translate-y-1;
+}
+
+.product-image {
+  @apply aspect-square w-full object-cover;
+}
+
+.fade-in {
+  animation: fadeIn 0.5s ease-in;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
