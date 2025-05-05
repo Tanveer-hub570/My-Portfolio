@@ -16,15 +16,15 @@ Get a firsthand look at the mobile app in action:
 
 ## 🧾 Screenshots
 
-| 🏠 Home Screen | 📋 Product List |
+| 🔒 Login |  | 🏠 Home Screen |
 |---------------|-----------------|
 | ![mobiless1](mobiless1.png) | ![mobiless2](mobiless2.png) |
 
-| ➕ Add Product | 🧍 Partner Page |
+| 📋 Product List | 🧍 Partner Page |
 |----------------|----------------|
 | ![mobiless3](mobiless3.png) | ![mobiless4](mobiless4.png) |
 
-| 🔒 Login |
+| Cart |   
 |----------|
 | ![mobiless5](mobiless5.png) |
 
