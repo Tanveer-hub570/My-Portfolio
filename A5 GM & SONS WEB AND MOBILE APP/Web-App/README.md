@@ -20,7 +20,7 @@ Built with performance and usability in mind, this dashboard complements the GM 
 
 Watch the full walkthrough of the GM & SONS Web App here:
 
-🔗 [Watch on YouTube](https://www.youtube.com/watch?v=your-video-id)
+🔗 [Watch on YouTube](https://youtube.com/shorts/CtViVGoRYuw?feature=share)
 
 ---
 
