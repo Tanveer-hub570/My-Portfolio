@@ -8,7 +8,7 @@ Welcome to the official **GM & SONS Web App** — a modern, responsive dashboard
 GM & SONS is Pakistan’s leading fresh fruits and vegetables supplier. This web app was built to streamline the backend operations, allowing admins to manage:
 
 - ✅ Fruits and Vegetables Inventory
-- ✅ Product Categories (e.g., Juices, Seasonal Items)
+- ✅ Product Categories (e.g., Fruits, Vegatables)
 - ✅ Dynamic Partner Catalog
 - ✅ User and Order Management
 
@@ -92,7 +92,7 @@ npm run dev
 ## 📬 Contact
 
 For business inquiries or support, contact **GM & SONS PRIVATE LIMITED**  
-📧 gmsons.official@gmail.com  
+📧 gm7090211@gmail.com  
 📍 Pakistan
 
 ---
