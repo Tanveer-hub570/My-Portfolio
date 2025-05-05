@@ -10,7 +10,7 @@ Welcome to the official **GM & SONS Mobile App** — a sleek, user-friendly mobi
 
 Get a firsthand look at the mobile app in action:
 
-🔗 [Watch the Demo](https://youtube.com/shorts/CtViVGoRYuw?feature=share)
+🔗 [Watch the Demo](https://youtube.com/shorts/nvRsaGQw7VY?feature=share)
 
 ---
 
