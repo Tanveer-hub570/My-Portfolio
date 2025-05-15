@@ -52,9 +52,9 @@ Scan this code to **see the app demo** in Expo Go:
 
 ### 🛍️ Product Browsing & Detail View
 
-| Product List | Product Detail |
+| Product Added to Cart | Product Detail |
 |--------------|----------------|
-| ![mobiless3](mobiless3.png) | ![mobiless4](mobiless4.png) |
+| ![mobiless3](mobiless4.png) | ![mobiless4](mobiless3.png) |
 
 ### 👤 Partners & Orders
 
