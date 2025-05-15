@@ -58,7 +58,7 @@ Scan this code to **see the app demo** in Expo Go:
 
 ### 👤 Partners & Orders
 
-| Partners | My Orders |
+| Cart | Checkout |
 |----------|-----------|
 | ![mobiless5](mobiless5.png) | ![mobiless6](mobiless6.png) |
 
