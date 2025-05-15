@@ -64,7 +64,7 @@ Scan this code to **see the app demo** in Expo Go:
 
 ### 🧾 Cart & Checkout
 
-| Cart | Checkout |
+| Admin Login | Admin Dashboard |
 |------|----------|
 | ![mobiless7](mobiless7.png) | ![mobiless8](mobiless8.png) |
 
