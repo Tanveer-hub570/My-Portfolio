@@ -48,7 +48,7 @@ Scan this code to **see the app demo** in Expo Go:
 
 | Home | Categories |
 |------|------------|
-| ![mobiless1](mobiless1.png) | ![mobiless2](mobiless2.png) |
+| ![mobiless1](mobiless9.png) | ![mobiless2](mobiless2.png) |
 
 ### 🛍️ Product Browsing & Detail View
 
@@ -72,7 +72,7 @@ Scan this code to **see the app demo** in Expo Go:
 
 | Login | Signup |
 |--------|--------|
-| ![mobiless9](mobiless9.png) | ![mobiless10](mobiless10.png) |
+| ![mobiless9](mobiless1.png) | ![mobiless10](mobiless10.png) |
 
 ---
 
